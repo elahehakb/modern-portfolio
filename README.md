@@ -6,11 +6,13 @@ This project demonstrates elegant design, clean code structure, and a profession
 ---
 
 ## 🚀 Live Demo
+
 **[👉 View Live on GitHub Pages](https://elahehakb.github.io/modern-portfolio)**  
 
 ---
 
 ## 🧭 Table of Contents
+
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Folder Structure](#folder-structure)
@@ -25,6 +27,7 @@ This project demonstrates elegant design, clean code structure, and a profession
 ---
 
 ## 📝 About the Project
+
 This **Modern Portfolio** template is designed to make you stand out.  
 It includes sections for an introduction, about, skills, projects, and contact — all laid out in a clean, visually appealing style.
 
@@ -36,6 +39,7 @@ It includes sections for an introduction, about, skills, projects, and contact �
 ---
 
 ## ✨ Features
+
 - 🎨 Modern gradient hero section  
 - ⚙️ Clean, semantic HTML structure  
 - 💎 Reusable and organized CSS  
@@ -47,6 +51,7 @@ It includes sections for an introduction, about, skills, projects, and contact �
 ---
 
 ## 📂 Folder Structure
+
 ```bash
 modern-portfolio/
 │
@@ -59,8 +64,10 @@ modern-portfolio/
     ├── project2.jpg
     └── project3.jpg
 ```
+---
 
 ## 🛠️ Built With
+
 - **HTML5** – clean structure, semantic elements  
 - **CSS3** – responsive grid, gradients, transitions  
 - **Google Fonts** – [Poppins](https://fonts.google.com/specimen/Poppins)
@@ -82,10 +89,12 @@ git clone https://github.com/elahehakb/modern-portfolio.git
 ```
 
 ### 3️⃣ Open the project
+
 Simply open index.html in your browser.
 No setup required 🎉
 
 ---
+
 ## 🌍 Deploy on GitHub Pages
 
 You can host this project **for free** using GitHub Pages:
@@ -109,12 +118,14 @@ Your portfolio will be live at:
 ## 🧩 Customization Guide
 
 ### 🖊️ 1. Update Personal Info
+
 Edit inside `index.html`:
 
 ```html
 <h1>Hi, I'm Elaheh Akbarian 👋</h1>
 <p>Front-End Developer & UI Designer</p>
 ```
+
 ### 🖼️ 2. Replace Project Images
 
 Place your own images in the /images folder:
@@ -137,21 +148,29 @@ Inside style.css, modify the gradient colors:
   --accent-2: #a777e3;
 }
 ```
+---
+
 ## 📸 Screenshots
 
 | Desktop View | Mobile View |
 |--------------|-------------|
 | ![Desktop](images/desktop.png) | ![Mobile](images/mobile.png) |
+
 ---
-### 🧾 License
+
+## 🧾 License
 
 This project is licensed under the MIT License — you’re free to use, modify, and distribute it.
 
 ---
-### 👩‍💻 Author
 
-Elaheh Akbarian
-Front-End Developer & UI Designer
+## 👩‍💻 Author
+
+**Elaheh Akbarian**  
+Web Developer | WordPress, PHP & Laravel | HTML & CSS Enthusiast
+📧 Email: elaheh.akb1987@gmail.com  
+💬 Telegram: @elahehakb  
+🌍 GitHub: [elahehakb](https://github.com/elahehakb)
 
 ---
 
