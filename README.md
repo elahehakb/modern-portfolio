@@ -147,4 +147,13 @@ Inside style.css, modify the gradient colors:
 
 This project is licensed under the MIT License — you’re free to use, modify, and distribute it.
 
+---
+### 👩‍💻 Author
+
+Elaheh Akbarian
+Front-End Developer & UI Designer
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
 
